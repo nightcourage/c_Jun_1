@@ -1,0 +1,15 @@
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/bin/Debug/net5.0/FirstTask.deps.json
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/bin/Debug/net5.0/FirstTask.runtimeconfig.json
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/bin/Debug/net5.0/FirstTask.runtimeconfig.dev.json
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/bin/Debug/net5.0/FirstTask.dll
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/bin/Debug/net5.0/ref/FirstTask.dll
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/bin/Debug/net5.0/FirstTask.pdb
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/obj/Debug/net5.0/FirstTask.csproj.AssemblyReference.cache
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/obj/Debug/net5.0/FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/obj/Debug/net5.0/FirstTask.AssemblyInfoInputs.cache
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/obj/Debug/net5.0/FirstTask.AssemblyInfo.cs
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/obj/Debug/net5.0/FirstTask.csproj.CoreCompileInputs.cache
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/obj/Debug/net5.0/FirstTask.dll
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/obj/Debug/net5.0/ref/FirstTask.dll
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/obj/Debug/net5.0/FirstTask.pdb
+/Users/roman/Projects/c_Jun_1/FirstTask/FirstTask/obj/Debug/net5.0/FirstTask.genruntimeconfig.cache
